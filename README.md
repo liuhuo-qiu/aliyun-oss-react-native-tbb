@@ -1,3 +1,5 @@
+# 2020-01-08 修改sdk支持，支持sdk28
+
 # Alibaba Cloud OSS SDK for React Native
 
 ## [README of Chinese](https://github.com/aliyun/aliyun-oss-react-native/blob/master/README-CN.md)
